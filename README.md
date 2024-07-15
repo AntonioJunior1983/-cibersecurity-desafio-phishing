@@ -18,3 +18,5 @@
 
 ### Resutados:
 ![Alt text](./foto01.jpg "Optional title")
+![Alt text](./foto02.jpg "Optional title")
+![Alt text](./foto03.jpg "Optional title")
